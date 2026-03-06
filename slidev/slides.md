@@ -337,7 +337,7 @@ title: Part 2 – What are your skills?
 ---
 
 <div v-click class="mt-8 flex flex-col items-center justify-center gap-4">
-  <img src="./assets/core-skills.png" alt="Value Map" class="h-60 w-auto object-contain" />
+  <img src="./assets/core-skills.png" alt="Value Map" class="h-[14.25rem] w-auto object-contain" />
 </div>
 
 <div v-click>
