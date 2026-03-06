@@ -127,6 +127,7 @@ Click on any section to navigate directly to it!
 
 ---
 layout: section
+title: Competence Management (through Tools for Thought)
 ---
 
 # Competence Management (through Tools for Thought)
@@ -165,6 +166,8 @@ Explain how PKM tools (e.g., Obsidian, Roam Research) facilitate the capture, co
 
 ---
 layout: section
+title: "Part 1: Values"
+subtitle: What are values?
 ---
 
 # Part 1: Values
@@ -290,6 +293,8 @@ And most importantly: Please document your results in the tool for thought of yo
 
 ---
 layout: section
+title: "Part 2: Skills"
+subtitle: What are skills?
 ---
 
 # Part 2: Skills
@@ -332,7 +337,7 @@ title: Part 2 – What are your skills?
 ---
 
 <div v-click class="mt-8 flex flex-col items-center justify-center gap-4">
-  <img src="./assets/core-skills.png" alt="Value Map" class="h-80 w-auto object-contain" />
+  <img src="./assets/core-skills.png" alt="Value Map" class="h-60 w-auto object-contain" />
 </div>
 
 <div v-click>
@@ -397,6 +402,8 @@ Do you know your skills? (especially p. 12-15; https://www.profilpass.de/wp-cont
 
 ---
 layout: section
+title: "Part 3: Knowledge"
+subtitle: What you know?
 ---
 
 # Part 3: Knowledge
@@ -427,21 +434,22 @@ title: Part 3 – What is knowledge?
 ---
 layout: default
 title: Part 3 – What knowledge do you have?
+scroll: no
 ---
 
 <div class="grid grid-cols-3 gap-8 items-start justify-items-center w-full max-w-5xl mx-auto mt-6 text-center">
   <div v-click class="flex flex-col items-center">
-    <img src="./assets/certificate.png" alt="Certificate" class="h-54 w-auto object-contain" />
+    <img src="./assets/certificate.png" alt="Certificate" class="h-[9.5rem] w-auto object-contain" />
     <p class="mt-3 opacity-60">Self-Reflection</p>
   </div>
 
   <div v-click class="flex flex-col items-center">
-    <img src="./assets/staple.png" alt="Book Staple" class="h-54 w-auto object-contain" />
+    <img src="./assets/staple.png" alt="Book Staple" class="h-[9.5rem] w-auto object-contain" />
     <p class="mt-3 opacity-60">Value-Skills-Knowledge Development</p>
   </div>
 
   <div v-click class="flex flex-col items-center">
-    <img src="./assets/network.png" alt="Network" class="h-54 w-auto object-contain" />
+    <img src="./assets/network.png" alt="Network" class="h-[9.5rem] w-auto object-contain" />
     <p class="mt-3 opacity-60">Documentation and Presentation</p>
   </div>
 
