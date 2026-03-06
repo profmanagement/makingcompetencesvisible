@@ -29,9 +29,11 @@ jobs:
         run: npm i -g @antfu/ni
 
       - name: Install dependencies
+        working-directory: slidev
         run: nci
 
       - name: Build
+        working-directory: slidev
         run: nr build --base /${{github.event.repository.name}}/
 
       - name: Setup Pages
@@ -39,7 +41,7 @@ jobs:
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: slidev/dist
 
   deploy:
     environment:
