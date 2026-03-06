@@ -392,7 +392,7 @@ title: Part 2 – What we can I do next?
 
 **Develop:** Choose one skill to strengthen and outline actionable steps for improvement.
 
-**Explore ProfilPASS (for Adults):** <a class="no-break-link" href="https://www.profilpass.de/wp-content/uploads/2023/05/pp_english.pdf#page=15" target="_blank">https://www.profilpass.de**</a>
+**Explore ProfilPASS (for Adults):** <a class="no-break-link" href="https://www.profilpass.de/wp-content/uploads/2023/05/pp_english.pdf#page=15" target="_blank">https://www.profilpass.de</a>
 
 </div>
 
