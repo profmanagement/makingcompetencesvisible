@@ -108,6 +108,7 @@ Click on any section to navigate directly to it!
 ---
 layout: toc
 title: Table of Contents
+showNumbers: true
 ---
 
 <img src="./assets/value.png" alt="Value" style="position: absolute; top: 43%; left: 50%; width: auto; height: 40px; opacity: 0.6;" />
@@ -215,11 +216,11 @@ title: Part 1 – What are your values?
 ---
 
 <div v-click class="mt-8 flex justify-center gap-7">
-  <img src="./assets/schwarz.png" alt="Value Map" class="h-75 w-auto object-contain" />
+  <img src="./assets/schwarz.png" alt="Value Map" class="h-65 w-auto object-contain" />
 </div>
 
 <div v-click>
-  <Block type="task" title="Task">
+  <TaskBlock title="Task">
 
   **Please think about the following questions:**
 
@@ -227,7 +228,7 @@ title: Part 1 – What are your values?
   - What would your colleagues/friends say what your strengths are? 
   - What are your main strengths?
 
-  </Block>
+  </TaskBlock>
 </div>
 
 <!--  
@@ -331,18 +332,18 @@ title: Part 2 – What are your skills?
 ---
 
 <div v-click class="mt-8 flex flex-col items-center justify-center gap-4">
-  <img src="./assets/core-skills.png" alt="Value Map" class="h-auto w-280px object-contain" />
+  <img src="./assets/core-skills.png" alt="Value Map" class="h-80 w-auto object-contain" />
 </div>
 
 <div v-click>
-  <Block type="task" title="Task">
+  <TaskBlock title="Task">
 
   **Please think about the following questions:**
 
   - What are your main skills?
   - What do others say about your skills?
 
-  </Block>
+  </TaskBlock>
 </div>
 
 <!--  
@@ -446,7 +447,7 @@ title: Part 3 – What knowledge do you have?
 
 </div>
 
-<Block type="task" title="Task">
+<TaskBlock title="Task">
 
 **Please think about the following questions:**
 
@@ -454,7 +455,7 @@ title: Part 3 – What knowledge do you have?
 - Which topics have you studied deeply through books, courses, or practice?
 - What do others recognize as your areas of expertise?
 
-</Block>
+</TaskBlock>
 
 ---
 layout: image-right
