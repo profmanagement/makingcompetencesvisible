@@ -39,7 +39,9 @@ coverImages:
 
 Collecting Puzzle Pieces of Evidence to Capture, Show, and Explain What You Know, Can Do, and Value
 
-<img src="./assets/pkmsummit.png" alt="Books" style="position: absolute; top: 5%; left: 5%; width: 120px; height: auto; opacity: 0.9;" />
+<img src="./assets/pkmsummit.png" alt="PKMSummit2026" style="position: absolute; top: 5%; left: 5%; width: 152px; height: auto; opacity: 0.9;" />
+
+<img src="./assets/qr-code.png" alt="QR Code" style="position: absolute; bottom: 8%; right: 5%; width: 130px; height: auto; opacity: 0.9; transform: scaleX(-1); z-index: 10;" />
 
 <img src="./assets/books.png" alt="Books" style="position: absolute; top: 1%; right: -32%; width: auto; height: 500px; opacity: 0.2;" />
 
@@ -88,11 +90,11 @@ ul li {
 
 <v-clicks>
 
-- 🎓 Problem & Goal — why competences stay invisible and what "making competences visible" requires
-- 🧠 Tools for Thought as competence management tools — how connected notes (e.g., in Obsidian) can function as a living competence portfolio
-- 🧩 Four Practical Moves — capture → structure→ validate → present competences and proofs of evidence
+- #### 🎓 Problem & Goal — why competences stay invisible and what "making competences visible" requires
+- #### 🧠 Tools for Thought as competence management tools — how connected notes (e.g., in Obsidian) can function as a living competence portfolio
+- #### 🧩 Four Practical Moves — capture → structure→ validate → present competences and proofs of evidence
 
-<p style="margin-top: 3.5rem;"><strong>Let's get started!</strong></p>
+#### <p style="margin-top: 3.5rem;"><strong>Let's get started!</strong></p>
 
 </v-clicks>
 
@@ -111,11 +113,11 @@ title: Table of Contents
 showNumbers: true
 ---
 
-<img src="./assets/value.png" alt="Value" style="position: absolute; top: 43%; left: 50%; width: auto; height: 40px; opacity: 0.6;" />
+<img src="./assets/value.png" alt="Value" style="position: absolute; top: 40%; left: 50%; width: auto; height: 40px; opacity: 0.6;" />
 
-<img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 51%; left: 50.5%; width: auto; height: 30px; opacity: 0.6;" />
+<img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 47%; left: 50.5%; width: auto; height: 30px; opacity: 0.6;" />
 
-<img src="./assets/knowledge.png" alt="Knowledge" style="position: absolute; top: 57%; left: 50%; width: auto; height: 40px; opacity: 0.6;" />
+<img src="./assets/knowledge.png" alt="Knowledge" style="position: absolute; top: 53%; left: 50%; width: auto; height: 40px; opacity: 0.6;" />
 
 <!--
 Character Strengths - (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
@@ -127,10 +129,10 @@ Click on any section to navigate directly to it!
 
 ---
 layout: section
-title: Competence Management (through Tools for Thought)
+title: From Information and Knowledge Management to Competence Management
 ---
 
-# Competence Management (through Tools for Thought)
+# From Information and Knowledge Management to Competence Management
 
 ---
 layout: center
@@ -140,17 +142,17 @@ title: Competence Management
 <div class="grid grid-cols-3 gap-8 items-start justify-items-center w-full max-w-5xl mx-auto mt-6 text-center">
   <div v-click class="flex flex-col items-center">
     <img src="./assets/self-reflection.png" alt="Self Reflection" class="h-64 w-auto object-contain" />
-    <p class="mt-3 opacity-70">Self-Reflection</p>
+    <p class="mt-3 opacity-70">Self-Reflection (Gruber, 2021)</p>
   </div>
 
   <div v-click class="flex flex-col items-center">
     <img src="./assets/vsk.png" alt="Values Skills Knowledge" class="h-64 w-auto object-contain" />
-    <p class="mt-3 opacity-70">Value-Skills-Knowledge Development</p>
+    <p class="mt-3 opacity-70">Value-Skills-Knowledge Development (Euler & Hahn, 2014)</p>
   </div>
 
   <div v-click class="flex flex-col items-center">
     <img src="./assets/docu.png" alt="Documentation" class="h-64 w-auto object-contain" />
-    <p class="mt-3 opacity-70">Documentation and Presentation</p>
+    <p class="mt-3 opacity-70">Documentation and Presentation ((Dilger & Strate, 2025; Siegel & Lohner, 2024)</p>
   </div>
 
 </div>
@@ -167,21 +169,23 @@ Explain how PKM tools (e.g., Obsidian, Roam Research) facilitate the capture, co
 ---
 layout: section
 title: "Part 1: Values"
-subtitle: What are values?
+subtitle: What you value high?
 ---
 
 # Part 1: Values
 
-## What are values?
+## What you value high?
 
 
 ---
 layout: image-left
 image: https://images.unsplash.com/photo-1600706844152-3a29fce003b7?q=80&w=2264&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ratio: "50:38"
-title: Part 1 – What are values?
+title: Part 1 – What you value high?
 <!--subtitle: Configurable Ratio-->
 ---
+
+<img src="./assets/value.png" alt="Values" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
 <style scoped>
 .values-list {
@@ -199,9 +203,9 @@ title: Part 1 – What are values?
 </style>
 
 <ul class="values-list">
-  <li v-click><strong>Core Beliefs</strong>: Enduring beliefs about what is desirable, important, and worthy of pursuit, guiding behavior and decision-making (Bilsky, 1987; Schwartz, 2012)</li>
-  <li v-click><strong>Stability/Change</strong>: tend to be stable; however can evolve through transformative experiences or deliberate reflection (Pieper, 2007)</li>
-  <li v-click><strong>Functional Role</strong>: serve as an internal compass, shaping identity, priorities, and interactions, but are often implicit and require conscious exploration to articulate (Huber, 2016)</li>
+  <li v-click><strong>Core Beliefs</strong>: Enduring beliefs about what is <strong>desirable, important, and worthy of pursuit, guiding behavior and decision-making</strong> (Bilsky, 1987; Schwartz, 2012)</li>
+  <li v-click><strong>Stability/Change</strong>: tend to be <strong>rather stable</strong>; however <strong>can evolve</strong> through transformative experiences or deliberate reflection (Pieper, 2007)</li>
+  <li v-click><strong>Functional Role</strong>: serve as an <strong>internal compass, shaping identity</strong>, priorities, and interactions, but are often implicit and require conscious exploration to articulate (Huber, 2016)</li>
 </ul>
 
 <!-- 
@@ -215,11 +219,15 @@ Wissenschaftliche Fundierung: u.a. Ryan Niemiec (2018): Character Strengths Inte
 
 ---
 layout: default
-title: Part 1 – What are your values?
+title: Part 1 – What you value high?
 ---
 
+<img src="./assets/value.png" alt="Values" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
+
 <div v-click class="mt-8 flex justify-center gap-7">
-  <img src="./assets/schwarz.png" alt="Value Map" class="h-65 w-auto object-contain" />
+  <a href="./assets/schwarz.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/schwarz.png" alt="Value Map" class="h-65 w-auto object-contain cursor-zoom-in" />
+  </a>
 </div>
 
 <div v-click>
@@ -242,9 +250,11 @@ Think & Pair und Aufschreiben
 layout: image-right
 image: https://images.unsplash.com/photo-1621002784630-86bd2fd2e9e0?q=80&w=2264&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ratio: "38:63"
-title: Part 1 – What we can I do next?
+title: Part 1 – What you value high?
 <!--subtitle: Configurable Ratio-->
 ---
+
+<img src="./assets/value.png" alt="Values" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
 <style scoped>
 .column-safe {
@@ -271,12 +281,12 @@ title: Part 1 – What we can I do next?
 
 **The VIA Survey** - free, scientific survey of character strengths, only 10 min
 
-**Character strengths can help to:**
+**Research shows that character strengths can help to:**
 - Increase happiness and well-being, find meaning and purpose, boost relationships, manage stress and health, accomplish goals
 - Take the Free Strengths Survey:
   <a class="no-break-link" href="https://www.viacharacter.org/account/register" target="_blank">viacharacter.org/account/register</a>
 
-**And most importantly:** Please document your results in the tool for thought of your choice
+**And most importantly:** Take notes! Please document your results in the tool for thought of your choice.
 
 </div>
 
@@ -294,12 +304,12 @@ And most importantly: Please document your results in the tool for thought of yo
 ---
 layout: section
 title: "Part 2: Skills"
-subtitle: What are skills?
+subtitle: What you can do?
 ---
 
 # Part 2: Skills
 
-## What are skills?
+## What you can do?
 
 ---
 layout: image-left
@@ -307,18 +317,17 @@ image: https://plus.unsplash.com/premium_photo-1675719068195-eabb278d2cf8?q=80&w
 ratio: "50:38"
 fit: contain
 position: left
-title: Part 2 – What are skills?
+title: Part 2 – What you can do?
 <!--subtitle: Configurable Ratio-->
 ---
 
-**Definition:** Skills are capabilities developed through training and practice. Unlike knowledge (*knowing what*)
+<img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
-**Characteristics:**
-- skills represent **how to do something*
-- gained through experiences; domainspecific!?
-- Skills need to be linked to competences
+- Skills are <strong>learned abilities</strong> to perform tasks—procedural how-to knowledge (e.g., Euler & Hahn, 2014).
 
-Bloom, 1956, revised 2001; European Commission, n.d.
+- Subset of competence; often <strong>action-oriented</strong> (cognitive/psychomotor), e.g., mental math, teaching questioning techniques.
+
+- Complexity: From <strong>simple</strong> (typing) to <strong>complex</strong> (facilitating dialogues).
 
 <!--  
 Examples:
@@ -333,11 +342,15 @@ Scientific grounding
 
 ---
 layout: default
-title: Part 2 – What are your skills?
+title: Part 2 – What you can do?
 ---
 
-<div v-click class="mt-8 flex flex-col items-center justify-center gap-4">
-  <img src="./assets/core-skills.png" alt="Value Map" class="h-[14.25rem] w-auto object-contain" />
+<img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
+
+<div v-click class="mt-8 flex justify-center gap-7">
+  <a href="./assets/core-skills.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/core-skills.png" alt="Value Map" class="h-65 w-auto object-contain cursor-zoom-in" />
+  </a>
 </div>
 
 <div v-click>
@@ -359,9 +372,11 @@ title: Part 2 – What are your skills?
 layout: image-right
 image: https://images.unsplash.com/photo-1621002784630-86bd2fd2e9e0?q=80&w=2264&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ratio: "38:63"
-title: Part 2 – What we can I do next?
+title: Part 2 – What you can do?
 <!--subtitle: Configurable Ratio-->
 ---
+
+<img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
 <style scoped>
 .column-safe {
@@ -386,13 +401,13 @@ title: Part 2 – What we can I do next?
 
 ## “Homework”: Discover Your Skills
 
-**Reflect:** Identify your (core) skills—what can you do well, and how have you demonstrated these skills in practice?
+**Reflect:** Identify your **(core) skills** – what can you do well, and how have you demonstrated these skills in practice?
 
-**Document:** Create a "Skills Portfolio" note in your Tool for Thought, linking specific projects, feedback, and evidence of your abilities.
+**Document:** Create a **simple skills list** or a **skills portfolio** in the tool for thought of your choice (linking specific projects, feedback, and evidence of your abilities)
 
-**Develop:** Choose one skill to strengthen and outline actionable steps for improvement.
+**Develop:** Choose one skill to **strengthen** and outline actionable steps for **improvement**.
 
-**Explore ProfilPASS (for Adults):** <a class="no-break-link" href="https://www.profilpass.de/wp-content/uploads/2023/05/pp_english.pdf#page=15" target="_blank">https://www.profilpass.de</a>
+**Helpful resource:** Explore the ProfilPASS (for Adults) for capturing your skills: <a class="no-break-link" href="https://www.profilpass.de/wp-content/uploads/2023/05/pp_english.pdf#page=15" target="_blank">https://www.profilpass.de</a> (especially, p. 12-5)
 
 </div>
 
@@ -413,17 +428,19 @@ subtitle: What you know?
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1604342162684-0cb7869cc445?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: ./assets/nerves.png
 ratio: "4:3"
-title: Part 3 – What is knowledge?
+title: Part 3 – What you know?
 <!--subtitle: Configurable Ratio-->
 ---
 
-**Justified True Belief:** a belief that is not only true but also supported by evidence or reasoning, distinguishing it from mere opinion or perception (Brühl, 2017)
+<img src="./assets/knowledge.png" alt="Knowledge" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
-**Contextual and Constructed:** It is context-dependent, actively constructed by individuals, and tied to personal experience, rather than being an absolute or static entity (Schiller & Guretzky, 2004; Probst et al., 1999)
+**Justified True Belief:** a belief that is not only true but also **supported by evidence or reasoning**, distinguishing it from mere opinion or perception (Brühl, 2017)
 
-**Types and Modalities:** It encompasses declarative (*know-what*), i.e. facts, concepts, and theories), procedural (*know-how*), and conditional (*know-when*) forms (De Jong & Ferguson-Hessler, 1996)
+**Contextual and Constructed:** It is context-dependent, **actively constructed by individuals**, and tied to personal experience, rather than being an absolute or static entity (Schiller & Guretzky, 2004; Probst et al., 1999)
+
+**Types and Modalities:** It encompasses **declarative** (*know-what*), i.e. facts, concepts, and theories), **procedural** (*know-how*), and **conditional** (*know-when*) **forms** (De Jong & Ferguson-Hessler, 1996)
 
 **Foundation for Agency:** Knowledge empowers individuals to participate meaningfully in society, make informed decisions, and drive personal and collective progress (Surma et al., 2025).
 
@@ -433,9 +450,11 @@ title: Part 3 – What is knowledge?
 
 ---
 layout: default
-title: Part 3 – What knowledge do you have?
+title: Part 3 – What you know?
 scroll: no
 ---
+
+<img src="./assets/knowledge.png" alt="Knowledge" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
 <div class="grid grid-cols-3 gap-8 items-start justify-items-center w-full max-w-5xl mx-auto mt-6 text-center">
   <div v-click class="flex flex-col items-center">
@@ -469,9 +488,11 @@ scroll: no
 layout: image-right
 image: https://images.unsplash.com/photo-1621002784630-86bd2fd2e9e0?q=80&w=2264&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ratio: "1:2"
-title: Part 3 – What we can I do next?
+title: Part 3 – What you know?
 <!--subtitle: Configurable Ratio-->
 ---
+
+<img src="./assets/knowledge.png" alt="Knowledge" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
 <style scoped>
 .column-safe {
@@ -496,36 +517,46 @@ title: Part 3 – What we can I do next?
 
 ## “Homework”: Discover Your Knowledge
 
-**Reflect:** Identify your areas of expertise—what do you know deeply, and how have you applied it?
+**Reflect:** Identify your **areas of expertise** – what do you know deeply, and how have you applied it?
 
-**Document:** Create a "Knowledge Map" note in your Tool for Thought, linking examples, resources, and applications.
+**Expand:** Choose one area to **explore further** and set a concrete learning goal.
 
-**Expand:** Choose one area to explore further and set a concrete learning goal.
-
-**To do:** In your PKM-Tool (e.g. Obsidian) create a knowledge map (Doto, 2024; see also Nick Milo)  
+Feel free to **capture** and **describe your knowledge** in the **tool of thought** of your choice e.g., in the form of a knowledge map / MOC (Doto, 2024; see also Nick Milo; e.g. Obsidian)
 
 </div>
 
 
 ---
 layout: auto-center
-title: Discussion & Reflection
+title: Takeaways
 ---
 
-<div class="flex flex-col items-center justify-center h-full gap-8">
-  <div style="font-size: 6rem;">💬</div>
-  <h2>Let's Discuss!</h2>
-  <p style="font-size: 1.2rem; opacity-70;">Share your thoughts and experiences</p>
+<div class="w-full h-full flex items-center justify-center">
+  <div style="width: calc(100% + 40px); height: calc(100% + 20px); margin: -10px -20px;">
+    <img src="./assets/takeaways.png" alt="Key takeaways" class="w-full h-full object-cover" />
+  </div>
 </div>
 
 ---
+layout: section
+title: "Outlook"
+subtitle: Making Competences Visible Using a Portfolio Approach and Tools for Thought
+---
+
+# Outlook
+
+## Making Competences Visible Using a Portfolio Approach and Tools for Thought
+
+---
 layout: quote
-title: Vision – Portfolio for Work (and Life)  
+title: Outlook 
 ---
 
 Start building your competence portfolio today—begin with one value, skill, or piece of knowledge!
 
 — Anonymous
+
+
 
 <!--  
 Call to Action
@@ -586,18 +617,20 @@ Life is like a box of chocolates. You never know what you're gonna get.
 
 ---
 layout: references
-title: References
+title: References (Selection)
 ---
 
 <style scoped>
 p {
-  font-size: 0.875rem; /* oder kleiner */
+  font-size: 0.775rem; /* oder kleiner */
 }
 </style>
 
 Dilger, B. & Strate, M. (2025). Brückenbau zwischen individuellen Kompetenzen, Weiterbildungsangeboten und Anforderungen auf dem Arbeitsmarkt durch KI-gestützte Kompetenzportfolios in der beruflichen Weiterbildung. bwp@ Berufs- und Wirtschaftspädagogik – online, 48, 1–19. https://www.bwpat.de/ausgabe48/dilger_strate_bwpat48.pdf
 
 Doto, B. (2024). A system for writing: How an unconventional approach to note-making can help you capture ideas, think wildly, and write constantly. New Old Traditions.
+
+Euler, D., & Hahn, A. (2014). Wirtschaftsdidaktik (3., aktualisierte Aufl). Haupt.
 
 Hartig, J., Klieme, E. (2006). Kompetenz und Kompetenzdiagnostik. In: Schweizer, K. (eds) Leistung und Leistungsdiagnostik. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-33020-8_9 
 
