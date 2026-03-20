@@ -45,10 +45,10 @@ Collecting Puzzle Pieces of Evidence to Capture, Show, and Explain What You Know
 
 <img src="./assets/books.png" alt="Books" style="position: absolute; top: 1%; right: -32%; width: auto; height: 500px; opacity: 0.2;" />
 
-<div style="position: absolute; left: 0; right: 0; bottom: 80px; display: flex; justify-content: center; gap: 26px; z-index: 20;">
+<div style="position: absolute; left: 0; right: 0; bottom: 60px; display: flex; justify-content: center; align-items: flex-end; gap: 26px; z-index: 20;">
   <img src="./assets/s01-img01.png" alt="Cover image 1" style="height: 56px; width: auto; opacity: 0.95;" />
-  <img src="./assets/s01-img02.png" alt="Cover image 2" style="height: 56px; width: auto; opacity: 0.95;" />
-  <img src="./assets/s01-img03.png" alt="Cover image 3" style="height: 56px; width: auto; opacity: 0.95;" />
+  <img src="./assets/s01-img02.png" alt="Cover image 2" style="height: 46px; width: auto; opacity: 0.95;" />
+  <img src="./assets/s01-img03.png" alt="Cover image 3" style="height: 57px; width: auto; opacity: 0.95;" />
 </div>
 
 <!--
