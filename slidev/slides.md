@@ -41,9 +41,15 @@ Collecting Puzzle Pieces of Evidence to Capture, Show, and Explain What You Know
 
 <img src="./assets/pkmsummit.png" alt="PKMSummit2026" style="position: absolute; top: 5%; left: 5%; width: 152px; height: auto; opacity: 0.9;" />
 
-<img src="./assets/qr-code.png" alt="QR Code" style="position: absolute; bottom: 8%; right: 5%; width: 130px; height: auto; opacity: 0.9; transform: scaleX(-1); z-index: 10;" />
+<img src="./assets/qr-code.png" alt="QR Code" style="position: absolute; top: 4%; right: 43%; width: 120px; height: auto; opacity: 0.9; transform: scaleX(-1); z-index: 10;" />
 
 <img src="./assets/books.png" alt="Books" style="position: absolute; top: 1%; right: -32%; width: auto; height: 500px; opacity: 0.2;" />
+
+<div style="position: absolute; left: 0; right: 0; bottom: 80px; display: flex; justify-content: center; gap: 26px; z-index: 20;">
+  <img src="./assets/s01-img01.png" alt="Cover image 1" style="height: 56px; width: auto; opacity: 0.95;" />
+  <img src="./assets/s01-img02.png" alt="Cover image 2" style="height: 56px; width: auto; opacity: 0.95;" />
+  <img src="./assets/s01-img03.png" alt="Cover image 3" style="height: 56px; width: auto; opacity: 0.95;" />
+</div>
 
 <!--
 Brief introduction to PKM and its relevance in today’s knowledge-driven world
@@ -655,3 +661,4 @@ layout: center
 Questions?
 
 [GitHub Repo](https://github.com/profmanagement/makingcompetencesvisible.git)
+[GitHub Pages](https://profmanagement.github.io/makingcompetencesvisible/)
