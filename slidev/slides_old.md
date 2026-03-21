@@ -231,7 +231,7 @@ title: Part 1 – What you value high?
 <img src="./assets/value.png" alt="Values" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
 <div v-click class="mt-8 flex justify-center gap-7">
-  <a href="./assets/schwarz.png" target="_blank" rel="noopener noreferrer">
+  <a :href="new URL('assets/schwarz.png', window.location.href.split('#')[0]).href" target="_blank" rel="noopener noreferrer">
     <img src="./assets/schwarz.png" alt="Value Map" class="h-65 w-auto object-contain cursor-zoom-in" />
   </a>
 </div>
@@ -329,15 +329,11 @@ title: Part 2 – What you can do?
 
 <img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
-<v-clicks>
-
 - Skills are <strong>learned abilities</strong> to perform tasks—procedural how-to knowledge (e.g., Euler & Hahn, 2014).
 
 - Subset of competence; often <strong>action-oriented</strong> (cognitive/psychomotor), e.g., mental math, teaching questioning techniques.
 
 - Complexity: From <strong>simple</strong> (typing) to <strong>complex</strong> (facilitating dialogues).
-
-</v-clicks>
 
 <!--  
 Examples:
@@ -357,11 +353,7 @@ title: Part 2 – What you can do?
 
 <img src="./assets/skills.png" alt="Skills" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
-<div v-click class="mt-8 flex justify-center gap-7">
-  <a href="./assets/core-skills.png" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/core-skills.png" alt="Value Map" class="h-65 w-auto object-contain cursor-zoom-in" />
-  </a>
-</div>
+
 
 <div v-click>
   <TaskBlock title="Task">
@@ -417,7 +409,7 @@ title: Part 2 – What you can do?
 
 **Develop:** Choose one skill to **strengthen** and outline actionable steps for **improvement**.
 
-**Helpful resource:** Explore the ProfilPASS (for Adults) for capturing your skills: <a class="no-break-link" href="https://www.profilpass.de/wp-content/uploads/2023/05/pp_english.pdf#page=15" target="_blank">https://www.profilpass.de/wp-content/<br>uploads/2023/05/pp_english.pdf</a> (especially, p. 12-5)
+**Helpful resource:** Explore the ProfilPASS (for Adults) for capturing your skills: <a class="no-break-link" href="https://www.profilpass.de/wp-content/uploads/2023/05/pp_english.pdf#page=15" target="_blank">https://www.profilpass.de</a> (especially, p. 12-5)
 
 </div>
 
