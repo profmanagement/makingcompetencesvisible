@@ -72,46 +72,7 @@ Für die TN DINA3 Blätter mit Schatztruhen Rückseite und Feldern Vorderseite m
 
 -->
 
----
-layout: intro
----
 
-<!--
-LAYOUT: intro
-PURPOSE: Introduction or agenda slide
--->
-
-<style scoped>
-h2 {
-  margin-bottom: 3rem;
-}
-
-ul li {
-  margin-bottom: 1.5rem;
-  line-height: 1.8;
-}
-</style>
-
-## After this workshop, you will have learned:
-
-<v-clicks>
-
-- #### 🎓 Problem & Goal — why competences stay invisible and what "making competences visible" requires
-- #### 🧠 Tools for Thought as competence management tools — how connected notes (e.g., in Obsidian) can function as a living competence portfolio
-- #### 🧩 Four Practical Moves — capture → structure→ validate → present competences and proofs of evidence
-
-#### <p style="margin-top: 3.5rem;"><strong>Let's get started!</strong></p>
-
-</v-clicks>
-
-<!--
-Character Strengths - (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
-Job-related tasks (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
-general/ specific knowledge (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
-
-Click on any section to navigate directly to it!
-
--->
 
 ---
 layout: toc
@@ -694,3 +655,45 @@ Questions?
 
 [GitHub Repo](https://github.com/profmanagement/makingcompetencesvisible.git)
 [GitHub Pages](https://profmanagement.github.io/makingcompetencesvisible/)
+
+
+---
+layout: intro
+---
+
+<!--
+LAYOUT: intro
+PURPOSE: Introduction or agenda slide
+-->
+
+<style scoped>
+h2 {
+  margin-bottom: 3rem;
+}
+
+ul li {
+  margin-bottom: 1.5rem;
+  line-height: 1.8;
+}
+</style>
+
+## After this workshop, you will have learned:
+
+<v-clicks>
+
+- #### 🎓 Problem & Goal — why competences stay invisible and what "making competences visible" requires
+- #### 🧠 Tools for Thought as competence management tools — how connected notes (e.g., in Obsidian) can function as a living competence portfolio
+- #### 🧩 Four Practical Moves — capture → structure→ validate → present competences and proofs of evidence
+
+#### <p style="margin-top: 3.5rem;"><strong>Let's get started!</strong></p>
+
+</v-clicks>
+
+<!--
+Character Strengths - (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
+Job-related tasks (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
+general/ specific knowledge (Inhalt - Beispiel - Aufgabe - Reflexion/Gespräch)
+
+Click on any section to navigate directly to it!
+
+-->
