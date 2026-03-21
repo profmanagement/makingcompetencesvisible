@@ -446,13 +446,29 @@ title: Part 3 – What you know?
 
 <img src="./assets/knowledge.png" alt="Knowledge" style="position: absolute; top: 1%; right: 1%; width: auto; height: 34px; opacity: 0.85; z-index: 9999;" />
 
+<div v-click>
+
 **Justified True Belief:** a belief that is not only true but also **supported by evidence or reasoning**, distinguishing it from mere opinion or perception (Brühl, 2017)
+
+</div>
+
+<div v-click>
 
 **Contextual and Constructed:** It is context-dependent, **actively constructed by individuals**, and tied to personal experience, rather than being an absolute or static entity (Schiller & Guretzky, 2004; Probst et al., 1999)
 
+</div>
+
+<div v-click>
+
 **Types and Modalities:** It encompasses **declarative** (*know-what*), i.e. facts, concepts, and theories), **procedural** (*know-how*), and **conditional** (*know-when*) **forms** (De Jong & Ferguson-Hessler, 1996)
 
+</div>
+
+<div v-click>
+
 **Foundation for Agency:** Knowledge empowers individuals to participate meaningfully in society, make informed decisions, and drive personal and collective progress (Surma et al., 2025).
+
+</div>
 
 <!--  
 (1) declarative knowledge (knowing that), that is, knowledge about ; (2) procedural knowledge (knowing how), that is, knowledge about processes, procedures, and methods; (3) conditional knowledge (knowing when), that is, knowledge about applying knowledge in specific contexts; and (4) metacognitive knowledge, that is, knowledge about one's own learning and thinking (Anderson et al., 2001, pp. 41-44).
@@ -527,11 +543,23 @@ title: Part 3 – What you know?
 
 ## “Homework”: Discover Your Knowledge
 
-**Reflect:** Identify your **areas of expertise** – what do you know deeply, and how have you applied it?
+<div v-click>
+
+**Reflect:** Identify your **areas of expertise** – what do you know deeply? How have you applied it?
+
+</div>
+
+<div v-click>
 
 **Expand:** Choose one area to **explore further** and set a concrete learning goal.
 
+</div>
+
+<div v-click>
+
 Feel free to **capture** and **describe your knowledge** in the **tool of thought** of your choice e.g., in the form of a knowledge map / MOC (Doto, 2024; see also Nick Milo; e.g. Obsidian)
+
+</div>
 
 </div>
 
