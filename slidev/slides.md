@@ -399,7 +399,7 @@ subtitle: What you know?
 
 ---
 layout: image-right
-image: ./assets/nerves.png
+image: https://images.unsplash.com/photo-1711290088253-12ac5363c68b?q=80&w=3264&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ratio: "4:3"
 title: Part 3 – What you know?
 <!--subtitle: Configurable Ratio-->
@@ -654,6 +654,7 @@ layout: center
 Questions?
 
 [GitHub Repo](https://github.com/profmanagement/makingcompetencesvisible.git)
+
 [GitHub Pages](https://profmanagement.github.io/makingcompetencesvisible/)
 
 
